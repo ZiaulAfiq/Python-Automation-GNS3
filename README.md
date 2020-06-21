@@ -1,11 +1,11 @@
-# Python-Automation-GNS3
+# Python-Automation-GNS3 (Using kron and archive)
 
 ### Objective
 + Compose a python script which use kron and archive functionality inside the Cisco Router
 + Compose a remote-server connection using SSH protocol using SSH Paramiko
 ***
 ### Tools use
-+ GNS3 - Docker Container = Toolbox 
++ GNS3 - Docker Container = [Toolbox](https://docs.gns3.com/appliances/net_toolbox.html) 
 + Router Images = Dynamips Cisco IOS - c7200-advipservicesk9-mz.152-4.S5.image
 ### 
 ***
@@ -45,3 +45,6 @@ line vty 0 4
 login local
 transport input ssh ---> transport only ssh connection for the time being
 ```
+## *References:*
++ [David Bombal: Schedule Cisco config backup using kron and archive](https://youtu.be/-y-HUJOI8i4)
+
