@@ -58,10 +58,12 @@ The kron script is being executed from the router.
 ![image](https://user-images.githubusercontent.com/60979170/102311249-7cc05580-3fa7-11eb-94f5-11509d368e82.png)
 
 
+
 ```markdown
 Archive script is being deployed from the server to the router.
 ```
 ![image](https://user-images.githubusercontent.com/60979170/102311447-dd4f9280-3fa7-11eb-950b-c5bf60c4b2ea.png)
+
 
 
 ```markdown
@@ -70,10 +72,13 @@ Shows the timestamp which is save inside the router.
 ![image](https://user-images.githubusercontent.com/60979170/102311530-ff491500-3fa7-11eb-8d86-33a3d7f4cff2.png)
 
 
+
 ```markdown
 Shows the timestamp which is save inside the tftp server.
 ```
 ![image](https://user-images.githubusercontent.com/60979170/102311651-2f90b380-3fa8-11eb-8ebd-e32318641a7b.png)
+
+
 
 ## *References:*
 + [David Bombal: Schedule Cisco config backup using kron and archive](https://youtu.be/-y-HUJOI8i4)
